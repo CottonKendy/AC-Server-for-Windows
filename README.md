@@ -38,7 +38,7 @@
 > If you are on static ip. Open up the ports 9600/tcp, 9600/udp, and 8081/tcp both on your Windows PC and router.
 > You can now do a quick race or custom race.
 
-### Setting up Ramdmin VPN.
+### Setting up Radmin VPN.
   1. Download and install [Radmin VPN](https://www.radmin-vpn.com)
   2. Open and turn on the app.
   3. In the "Networks" tab, click on create network.
